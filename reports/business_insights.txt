@@ -1,0 +1,12 @@
+NETFLIX CONTENT ANALYTICS: AUTOMATED INSIGHTS
+==================================================
+
+Total titles analyzed: 8,790
+Movies: 6,126 (69.69%)
+TV Shows: 2,664 (30.31%)
+
+Highest recorded additions year: 2019 (2,016 titles)
+Most represented country in split country entries: United States (3,240 entries)
+Most common listed category: International Movies (2,752 entries)
+
+Interpretation note: These results describe the supplied dataset's metadata, not viewership, revenue, or causal success.
